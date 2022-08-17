@@ -2,7 +2,6 @@
 int number0 = int.Parse(Console.ReadLine());
 int number1 = 0;
 
-
 while (number0 > 0)
 {
 int number2 = number0 % 10;
